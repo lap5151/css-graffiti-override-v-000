@@ -12,7 +12,7 @@ html body div#wall #tag-3.slick{
   display: none;
 }
 
-html body div#wall div.parent div:first-child div#tag-4{
+html body div#wall div.parent div#tag-4{
   display: none;
 }
 
